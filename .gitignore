@@ -1,4 +1,4 @@
-COMPAS_Output*/
-COMPAS_Output_1*/
+compas/COMPAS_Output*/
+compas/COMPAS_Output_1*/
 *.h5
 *.hdf5
